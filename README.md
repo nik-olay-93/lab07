@@ -24,7 +24,7 @@ openssl sha1 v1.0.tar.gz
 ## 1. Необходимо сделать форк исходного репозитория hunter, затем редактировать hunter.cmake
 
 ```bash
-git chckout -b pr.formatter_lib
+git checkout -b pr.formatter_lib
 ```
 
 ```bash
